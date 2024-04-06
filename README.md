@@ -1,4 +1,4 @@
-# phabricator-generic-oauth2-extension
+# phabricator-keycloak-extension
 A versatile extension for Phabricator, enabling seamless integration with various OAuth 2.0 identity providers. Simplify authentication setup and enhance security with this customizable extension.
 
 Code is based on https://secure.phabricator.com/T524.
