@@ -8,10 +8,10 @@ Code is based on Evan Priestley's comments here: https://secure.phabricator.com/
 1. Copy extension PHP files to `phabricator/src/extensions`
 2. Restart Phabricator services
 3. Add `Auth Provider` and choose `Keycloak`
-4. Input Keycloak base URL and realm name
-5. Save
+4. Input Keycloak *Base URL* and *Realm Name*
+5. Click *Next step*
 6. Re-edit the provider
-7. Configure App ID(Keycloak client), App Secret(Keycloak client secret)
+7. Configure *App ID*(Keycloak client), *App Secret*(Keycloak client secret)
 
 ## Customize user attributes
 
